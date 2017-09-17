@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "Kilimandzaras";
+$password = " ";
 $dbname = "NFQ_Skalbykla";
 
 // Create connection
