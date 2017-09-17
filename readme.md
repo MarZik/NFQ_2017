@@ -1,6 +1,6 @@
 <b>Projektas:</b>
 <br>
-<a href="nuoroda" target="_blank">Nuoroda</a>
+<a href="https://warm-chamber-79129.herokuapp.com/" target="_blank">https://warm-chamber-79129.herokuapp.com/</a>
 <br>
 <br>
 <br>
